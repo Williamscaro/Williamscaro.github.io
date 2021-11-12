@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "Ailogic@ailogic",
+    "password": "ai-logic1",
+    "database": "betadb",
+    "host": "ailogic.mysql.database.azure.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "Ailogic@ailogic",
+    "password": "ai-logic1",
+    "database": "betadb",
+    "host": "ailogic.mysql.database.azure.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "Ailogic@ailogic",
+    "password": "ai-logic1",
+    "database": "betadb",
+    "host": "ailogic.mysql.database.azure.com",
+    "dialect": "mysql"
+  }
+}
